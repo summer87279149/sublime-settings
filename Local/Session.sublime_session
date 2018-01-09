@@ -1,0 +1,1122 @@
+{
+	"folder_history":
+	[
+		"/Users/xiatian/Desktop/koaS",
+		"/Users/xiatian/Desktop/CodeVar-master",
+		"/Users/admin/Desktop/login-logout-animation-concept 2",
+		"/Users/admin/Desktop/ceshi",
+		"/Users/admin/Desktop/xssnode",
+		"/Users/admin/Desktop/doubanMovie-SSR",
+		"/Users/admin/Desktop/VueMusic后端",
+		"/Users/admin/Desktop/Music",
+		"/Users/admin/Desktop/NodeJS",
+		"/Users/admin/Desktop/galleryreact",
+		"/Users/admin/Desktop/VueFullStackShop",
+		"/Users/admin/Desktop/Node/mongooseStudy/node_modules",
+		"/Users/admin/Desktop/Node/mongooseExpress",
+		"/Users/admin/Desktop/Node/mongooseStudy",
+		"/Users/admin/Desktop/React.js视频/vue-music/dist/static",
+		"/Users/admin/Desktop/xuexi",
+		"/Users/admin/Desktop/scms",
+		"/Users/admin/Desktop/c",
+		"/Users/admin/Desktop/Node",
+		"/Users/admin/Desktop/Node/mongoose",
+		"/Users/admin/Desktop/Node/redis",
+		"/Users/admin/Desktop/jujinggonghs",
+		"/Users/admin/Desktop/awesome-project"
+	],
+	"last_version": 3143,
+	"last_window_id": 382,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 802.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"className〔variable〕"
+					],
+					[
+						"exec",
+						"child_process.execFile"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"cla",
+						"cla\tclass .. initialize .. end"
+					],
+					[
+						"put",
+						"puts〔function〕"
+					],
+					[
+						"js",
+						"res.json([body])"
+					],
+					[
+						"re",
+						"res"
+					],
+					[
+						"pa",
+						"parse"
+					],
+					[
+						"l",
+						"lyric"
+					],
+					[
+						"file",
+						"filename"
+					],
+					[
+						"old",
+						"oldPath"
+					],
+					[
+						"se",
+						"server"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"fo",
+						"form\tTag"
+					],
+					[
+						"ser",
+						"server〔variable〕"
+					],
+					[
+						"ex",
+						"express"
+					],
+					[
+						"process",
+						"process.argv"
+					],
+					[
+						"con",
+						"con\tconsoleSnippet"
+					],
+					[
+						"err",
+						"error"
+					],
+					[
+						"st",
+						"status"
+					],
+					[
+						"e",
+						"express"
+					],
+					[
+						"pro",
+						"process"
+					],
+					[
+						"mo",
+						"module.exports"
+					],
+					[
+						"tc",
+						"tcpClient"
+					],
+					[
+						"so",
+						"socket.bytesWritten"
+					],
+					[
+						"creatSer",
+						"net.createServer"
+					],
+					[
+						"Use",
+						"UserSchema"
+					],
+					[
+						"func",
+						"function〔keyword〕"
+					],
+					[
+						"mong",
+						"mongoose〔variable〕"
+					],
+					[
+						"mon",
+						"mongoose〔variable〕"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"hei",
+						"height: 〔property〕"
+					],
+					[
+						"sty",
+						"style\tTag"
+					],
+					[
+						"get",
+						"app.get(name)"
+					],
+					[
+						"listen",
+						"server.listen"
+					],
+					[
+						"req",
+						"require〔function〕"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"fs",
+						"fs.open"
+					],
+					[
+						"on",
+						"emitter.on"
+					],
+					[
+						"readStr",
+						"fs.ReadStream(path, options);"
+					],
+					[
+						"readStream",
+						"fs.createReadStream(path, options);"
+					],
+					[
+						"var",
+						"var"
+					],
+					[
+						"para",
+						"zlib.params"
+					],
+					[
+						"creat",
+						"net._createServerHandle(address, port, addressType, fd);"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"proto",
+						"PropTypes.oneOf"
+					],
+					[
+						"rcc",
+						"rncc\tCreate react-native Class"
+					],
+					[
+						"r",
+						"rncc\tCreate react-native Class"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/ESLint/ESLint.sublime-build",
+							""
+						],
+						[
+							"Packages/User/node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/node.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: cons",
+						"Snippet: console.log"
+					],
+					[
+						"Snippet: c",
+						"Snippet: console.log"
+					],
+					[
+						"box",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 167.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/xiatian/Desktop/smtijiao",
+				"/Users/xiatian/Desktop/cdxm/package.json",
+				"/Users/xiatian/Desktop/wechat_jump_game/config.json",
+				"/Users/xiatian/Desktop/wechat_jump_game/wechat_jump_auto_iOS.py",
+				"/Users/xiatian/Desktop/wechat_jump_game/config/config.json",
+				"/Users/xiatian/Desktop/wechat_jump_game/wechat_jump的副本.py",
+				"/Users/xiatian/Desktop/wechat_jump_game/config/iPhone/8P_7P_6sP_6P_config.json",
+				"/Users/xiatian/Desktop/wechat_jump_game/config/default.json",
+				"/Users/xiatian/Desktop/koaS/index.js",
+				"/Users/xiatian/Desktop/koaS/package.json",
+				"/Users/xiatian/Desktop/- (CGSize)collectionView:(nonnull UICollectionView",
+				"/Users/xiatian/Library/Mobile Documents/com~apple~CloudDocs/代码参考目录/魔窗demo和fastlane/fastlane/Fastfile",
+				"/Users/xiatian/Desktop/cesgit/测试git.txt",
+				"/Users/xiatian/Downloads/example-gui-config.json",
+				"/Users/xiatian/Desktop/学习demos/xuexi/getpost.js",
+				"/Users/xiatian/Desktop/CodeVar-master/index.js",
+				"/Users/xiatian/Desktop/CodeVar-master/Configuration/variableFilter.js",
+				"/Users/xiatian/Desktop/CodeVar-master/underline.js",
+				"/Users/xiatian/Desktop/AwesomeProject/App.js",
+				"/Users/xiatian/Desktop/AwesomeProject/index.js",
+				"/Users/xiatian/Desktop/项目/个人/XNote项目/XNote后端/WoTuiHouTai/package.json",
+				"/Users/admin/Desktop/login-logout-animation-concept 2/index.html",
+				"/Users/admin/Desktop/login-logout-animation-concept 2/js/index.js",
+				"/Users/admin/Desktop/login-logout-animation-concept/untitled.html",
+				"/Users/admin/Desktop/login-logout-animation-concept/index.html",
+				"/Users/admin/Desktop/ces/apple-app-site-association",
+				"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/JS学习代码/js继承.js",
+				"/Users/admin/Desktop/xssnode/package.json",
+				"/Users/admin/Desktop/xssnode/app.js",
+				"/Users/admin/Desktop/china.js",
+				"/Applications/MAMP_2017-09-09_16-12-41/bin/phpMyAdmin/index.php",
+				"/Users/admin/Desktop/mysql_error.log",
+				"/Users/admin/Desktop/smpush.sh",
+				"/Users/admin/Desktop/ces/fastlane/Fastfile",
+				"/Users/admin/Desktop/aaa.rb",
+				"/Users/admin/Desktop/ces/fastlane/Gymfile",
+				"/Users/admin/Desktop/fastlane/snapshot/example/fastlane/Fastfile",
+				"/Users/admin/Desktop/qq.html",
+				"/Users/admin/Desktop/ceshi1/fastlane/Fastfile",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/JsFormat/Default (OSX).sublime-keymap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/admin/Desktop/sample-nodejs/macaca-test/mobile-app-sample.test.js",
+				"/Users/admin/Desktop/yaoyiyao/index.html",
+				"/Users/admin/Desktop/V2/sever.js",
+				"/Users/admin/Desktop/vue.js",
+				"/Users/admin/Desktop/Node/mongooseStudy/findone.js",
+				"/Users/admin/Desktop/ceshi/ecosystem.json",
+				"/Users/admin/Desktop/ceshi/web.js",
+				"/Users/admin/Desktop/daad.js",
+				"/Users/admin/Desktop/untitled.js",
+				"/Users/admin/Desktop/keepdata.json",
+				"/Users/admin/Desktop/Music/routes/lyric.js",
+				"/Users/admin/Desktop/Music/routes/users.js",
+				"/Users/admin/Desktop/iview.css",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/admin/Desktop/5种jQuery弹出大图效果/index.html",
+				"/Users/admin/Desktop/Node/mongooseExpress/app.js",
+				"/Users/admin/Desktop/Node/mongooseExpress/routes/users.js",
+				"/Users/admin/Desktop/xuexi/getpost.js",
+				"/Users/admin/Desktop/VueFullStackShop/Server/app.js",
+				"/Users/admin/Desktop/NodeJS/ajax.js",
+				"/Users/admin/Desktop/NodeJS/routes/users.js",
+				"/Users/admin/Desktop/NodeJS/sever.js",
+				"/Users/admin/Desktop/NodeJS/web.js",
+				"/Users/admin/Desktop/NodeJS/tcp.js",
+				"/Users/admin/Desktop/xuexi/session.js",
+				"/Users/admin/Desktop/xuexi/getcookies.js",
+				"/Users/admin/Desktop/state (1).json",
+				"/Users/admin/Desktop/state.json",
+				"/Users/admin/Desktop/Music/feedbacks.txt",
+				"/Users/admin/Desktop/Music/cheese.log",
+				"/Users/admin/Desktop/Music/public/index.html",
+				"/Users/admin/Desktop/Music/routes/index.js",
+				"/Users/admin/Desktop/Music/app.js",
+				"/Users/admin/Desktop/Music/bin/www",
+				"/Users/admin/Desktop/Music/ecosystem.json",
+				"/Users/admin/Desktop/express/Music/package-lock.json",
+				"/Users/admin/Desktop/express/Music/package.json",
+				"/Users/admin/Desktop/React.js视频/vue-music/dist/index.html",
+				"/Users/admin/Desktop/Charles4破解/下载Charles Proxy 4.1.2版本，百度云盘下载 或 去官网下载",
+				"/Users/admin/Desktop/untitle2d.js",
+				"/Users/admin/Desktop/Node/mongooseExpress/package.json",
+				"/Users/admin/Desktop/refresher220151022/untitled.html",
+				"/Users/admin/Desktop/refresher220151022/index.html",
+				"/Users/admin/Desktop/pulltorefresh-h5-iscroll-master/examples/js/demo_pullRefresh_skin.js",
+				"/Users/admin/Desktop/xuexi/cookie.js",
+				"/Users/admin/Desktop/xuexi/index.html",
+				"/Users/admin/Desktop/c/c.js",
+				"/Users/admin/.ssh/id_rsa.pub",
+				"/Users/admin/Desktop/NodeJS/xiatian.js",
+				"/Users/admin/Desktop/c/package.json",
+				"/Users/admin/Downloads/我的资源/NodeJs教程/05-Node.JS全栈工程师系列课程/第7章：实战训练/课件/Node.js 终端问答程序开发实战/源码/m/app2.js",
+				"/Users/admin/Desktop/scms/app.js",
+				"/Users/admin/Desktop/scms/bin/www",
+				"/Users/admin/Desktop/scms/。／",
+				"/Users/admin/Desktop/NodeJS/tcpClient.js",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/consoleSnippet.sublime-snippet",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/consoleSnippet",
+				"/Users/admin/Desktop/NodeJS/mog.js",
+				"/Users/admin/Desktop/NodeJS/set.js",
+				"/Users/admin/Desktop/NodeJS/node_modules/fsevents/node_modules/caseless/index.js",
+				"/Users/admin/Desktop/NodeJS/package.json",
+				"/Users/admin/Desktop/NodeJS/public/aa.html",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+				"/Users/admin/Desktop/NodeJS/package-lock.json",
+				"/Users/admin/Desktop/NodeJS/sftp-config-alt.json",
+				"/Users/admin/Desktop/NodeJS/sftp-config.json",
+				"/Users/admin/.zshrc",
+				"/Applications/MAMP/htdocs/a",
+				"/Users/admin/Desktop/NodeJS/config.log",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/Users/admin/Desktop/NodeJS/config",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-mousemap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/CTags/Default.sublime-mousemap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/JCShell Tools/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/TerminalView/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Terminality/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/admin/Desktop/房车源码/find_car/car_personal.html"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 132.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 34.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 31.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 31.0
+			},
+			"pinned_build_system": "Packages/User/JS.sublime-build",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"package-lock.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 194.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"className〔variable〕"
+					],
+					[
+						"exec",
+						"child_process.execFile"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"cla",
+						"cla\tclass .. initialize .. end"
+					],
+					[
+						"put",
+						"puts〔function〕"
+					],
+					[
+						"js",
+						"res.json([body])"
+					],
+					[
+						"re",
+						"res"
+					],
+					[
+						"pa",
+						"parse"
+					],
+					[
+						"l",
+						"lyric"
+					],
+					[
+						"file",
+						"filename"
+					],
+					[
+						"old",
+						"oldPath"
+					],
+					[
+						"se",
+						"server"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"fo",
+						"form\tTag"
+					],
+					[
+						"ser",
+						"server〔variable〕"
+					],
+					[
+						"ex",
+						"express"
+					],
+					[
+						"process",
+						"process.argv"
+					],
+					[
+						"con",
+						"con\tconsoleSnippet"
+					],
+					[
+						"err",
+						"error"
+					],
+					[
+						"st",
+						"status"
+					],
+					[
+						"e",
+						"express"
+					],
+					[
+						"pro",
+						"process"
+					],
+					[
+						"mo",
+						"module.exports"
+					],
+					[
+						"tc",
+						"tcpClient"
+					],
+					[
+						"so",
+						"socket.bytesWritten"
+					],
+					[
+						"creatSer",
+						"net.createServer"
+					],
+					[
+						"Use",
+						"UserSchema"
+					],
+					[
+						"func",
+						"function〔keyword〕"
+					],
+					[
+						"mong",
+						"mongoose〔variable〕"
+					],
+					[
+						"mon",
+						"mongoose〔variable〕"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"hei",
+						"height: 〔property〕"
+					],
+					[
+						"sty",
+						"style\tTag"
+					],
+					[
+						"get",
+						"app.get(name)"
+					],
+					[
+						"listen",
+						"server.listen"
+					],
+					[
+						"req",
+						"require〔function〕"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"fs",
+						"fs.open"
+					],
+					[
+						"on",
+						"emitter.on"
+					],
+					[
+						"readStr",
+						"fs.ReadStream(path, options);"
+					],
+					[
+						"readStream",
+						"fs.createReadStream(path, options);"
+					],
+					[
+						"var",
+						"var"
+					],
+					[
+						"para",
+						"zlib.params"
+					],
+					[
+						"creat",
+						"net._createServerHandle(address, port, addressType, fd);"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"proto",
+						"PropTypes.oneOf"
+					],
+					[
+						"rcc",
+						"rncc\tCreate react-native Class"
+					],
+					[
+						"r",
+						"rncc\tCreate react-native Class"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/ESLint/ESLint.sublime-build",
+							""
+						],
+						[
+							"Packages/User/node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/node.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: cons",
+						"Snippet: console.log"
+					],
+					[
+						"Snippet: c",
+						"Snippet: console.log"
+					],
+					[
+						"box",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 167.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/xiatian/Desktop/smtijiao",
+				"/Users/xiatian/Desktop/cdxm/package.json",
+				"/Users/xiatian/Desktop/wechat_jump_game/config.json",
+				"/Users/xiatian/Desktop/wechat_jump_game/wechat_jump_auto_iOS.py",
+				"/Users/xiatian/Desktop/wechat_jump_game/config/config.json",
+				"/Users/xiatian/Desktop/wechat_jump_game/wechat_jump的副本.py",
+				"/Users/xiatian/Desktop/wechat_jump_game/config/iPhone/8P_7P_6sP_6P_config.json",
+				"/Users/xiatian/Desktop/wechat_jump_game/config/default.json",
+				"/Users/xiatian/Desktop/koaS/index.js",
+				"/Users/xiatian/Desktop/koaS/package.json",
+				"/Users/xiatian/Desktop/- (CGSize)collectionView:(nonnull UICollectionView",
+				"/Users/xiatian/Library/Mobile Documents/com~apple~CloudDocs/代码参考目录/魔窗demo和fastlane/fastlane/Fastfile",
+				"/Users/xiatian/Desktop/cesgit/测试git.txt",
+				"/Users/xiatian/Downloads/example-gui-config.json",
+				"/Users/xiatian/Desktop/学习demos/xuexi/getpost.js",
+				"/Users/xiatian/Desktop/CodeVar-master/index.js",
+				"/Users/xiatian/Desktop/CodeVar-master/Configuration/variableFilter.js",
+				"/Users/xiatian/Desktop/CodeVar-master/underline.js",
+				"/Users/xiatian/Desktop/AwesomeProject/App.js",
+				"/Users/xiatian/Desktop/AwesomeProject/index.js",
+				"/Users/xiatian/Desktop/项目/个人/XNote项目/XNote后端/WoTuiHouTai/package.json",
+				"/Users/admin/Desktop/login-logout-animation-concept 2/index.html",
+				"/Users/admin/Desktop/login-logout-animation-concept 2/js/index.js",
+				"/Users/admin/Desktop/login-logout-animation-concept/untitled.html",
+				"/Users/admin/Desktop/login-logout-animation-concept/index.html",
+				"/Users/admin/Desktop/ces/apple-app-site-association",
+				"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/JS学习代码/js继承.js",
+				"/Users/admin/Desktop/xssnode/package.json",
+				"/Users/admin/Desktop/xssnode/app.js",
+				"/Users/admin/Desktop/china.js",
+				"/Applications/MAMP_2017-09-09_16-12-41/bin/phpMyAdmin/index.php",
+				"/Users/admin/Desktop/mysql_error.log",
+				"/Users/admin/Desktop/smpush.sh",
+				"/Users/admin/Desktop/ces/fastlane/Fastfile",
+				"/Users/admin/Desktop/aaa.rb",
+				"/Users/admin/Desktop/ces/fastlane/Gymfile",
+				"/Users/admin/Desktop/fastlane/snapshot/example/fastlane/Fastfile",
+				"/Users/admin/Desktop/qq.html",
+				"/Users/admin/Desktop/ceshi1/fastlane/Fastfile",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/JsFormat/Default (OSX).sublime-keymap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/admin/Desktop/sample-nodejs/macaca-test/mobile-app-sample.test.js",
+				"/Users/admin/Desktop/yaoyiyao/index.html",
+				"/Users/admin/Desktop/V2/sever.js",
+				"/Users/admin/Desktop/vue.js",
+				"/Users/admin/Desktop/Node/mongooseStudy/findone.js",
+				"/Users/admin/Desktop/ceshi/ecosystem.json",
+				"/Users/admin/Desktop/ceshi/web.js",
+				"/Users/admin/Desktop/daad.js",
+				"/Users/admin/Desktop/untitled.js",
+				"/Users/admin/Desktop/keepdata.json",
+				"/Users/admin/Desktop/Music/routes/lyric.js",
+				"/Users/admin/Desktop/Music/routes/users.js",
+				"/Users/admin/Desktop/iview.css",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/admin/Desktop/5种jQuery弹出大图效果/index.html",
+				"/Users/admin/Desktop/Node/mongooseExpress/app.js",
+				"/Users/admin/Desktop/Node/mongooseExpress/routes/users.js",
+				"/Users/admin/Desktop/xuexi/getpost.js",
+				"/Users/admin/Desktop/VueFullStackShop/Server/app.js",
+				"/Users/admin/Desktop/NodeJS/ajax.js",
+				"/Users/admin/Desktop/NodeJS/routes/users.js",
+				"/Users/admin/Desktop/NodeJS/sever.js",
+				"/Users/admin/Desktop/NodeJS/web.js",
+				"/Users/admin/Desktop/NodeJS/tcp.js",
+				"/Users/admin/Desktop/xuexi/session.js",
+				"/Users/admin/Desktop/xuexi/getcookies.js",
+				"/Users/admin/Desktop/state (1).json",
+				"/Users/admin/Desktop/state.json",
+				"/Users/admin/Desktop/Music/feedbacks.txt",
+				"/Users/admin/Desktop/Music/cheese.log",
+				"/Users/admin/Desktop/Music/public/index.html",
+				"/Users/admin/Desktop/Music/routes/index.js",
+				"/Users/admin/Desktop/Music/app.js",
+				"/Users/admin/Desktop/Music/bin/www",
+				"/Users/admin/Desktop/Music/ecosystem.json",
+				"/Users/admin/Desktop/express/Music/package-lock.json",
+				"/Users/admin/Desktop/express/Music/package.json",
+				"/Users/admin/Desktop/React.js视频/vue-music/dist/index.html",
+				"/Users/admin/Desktop/Charles4破解/下载Charles Proxy 4.1.2版本，百度云盘下载 或 去官网下载",
+				"/Users/admin/Desktop/untitle2d.js",
+				"/Users/admin/Desktop/Node/mongooseExpress/package.json",
+				"/Users/admin/Desktop/refresher220151022/untitled.html",
+				"/Users/admin/Desktop/refresher220151022/index.html",
+				"/Users/admin/Desktop/pulltorefresh-h5-iscroll-master/examples/js/demo_pullRefresh_skin.js",
+				"/Users/admin/Desktop/xuexi/cookie.js",
+				"/Users/admin/Desktop/xuexi/index.html",
+				"/Users/admin/Desktop/c/c.js",
+				"/Users/admin/.ssh/id_rsa.pub",
+				"/Users/admin/Desktop/NodeJS/xiatian.js",
+				"/Users/admin/Desktop/c/package.json",
+				"/Users/admin/Downloads/我的资源/NodeJs教程/05-Node.JS全栈工程师系列课程/第7章：实战训练/课件/Node.js 终端问答程序开发实战/源码/m/app2.js",
+				"/Users/admin/Desktop/scms/app.js",
+				"/Users/admin/Desktop/scms/bin/www",
+				"/Users/admin/Desktop/scms/。／",
+				"/Users/admin/Desktop/NodeJS/tcpClient.js",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/consoleSnippet.sublime-snippet",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/consoleSnippet",
+				"/Users/admin/Desktop/NodeJS/mog.js",
+				"/Users/admin/Desktop/NodeJS/set.js",
+				"/Users/admin/Desktop/NodeJS/node_modules/fsevents/node_modules/caseless/index.js",
+				"/Users/admin/Desktop/NodeJS/package.json",
+				"/Users/admin/Desktop/NodeJS/public/aa.html",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+				"/Users/admin/Desktop/NodeJS/package-lock.json",
+				"/Users/admin/Desktop/NodeJS/sftp-config-alt.json",
+				"/Users/admin/Desktop/NodeJS/sftp-config.json",
+				"/Users/admin/.zshrc",
+				"/Applications/MAMP/htdocs/a",
+				"/Users/admin/Desktop/NodeJS/config.log",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/Users/admin/Desktop/NodeJS/config",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-mousemap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/CTags/Default.sublime-mousemap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/JCShell Tools/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/TerminalView/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Terminality/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/admin/Desktop/房车源码/find_car/car_personal.html"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 132.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 34.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 31.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 31.0
+			},
+			"pinned_build_system": "Packages/User/JS.sublime-build",
+			"position": "0 0 53 1440 824 0 0 1440 877 ",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"package-lock.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 194.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 382,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

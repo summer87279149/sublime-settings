@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"Anaconda",
+		"auto-save",
+		"Boxy Theme",
+		"ChineseLocalizations",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Express Completion",
+		"ExpressComplete",
+		"HTML Snippets",
+		"JavaScript & NodeJS Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"MarkdownEditing",
+		"Mongoose CoffeeScript",
+		"Node Completions",
+		"Nodejs",
+		"NodeRequirer",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"Simple JSX",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal",
+		"TerminalView",
+		"VueFormatter"
+	]
+}
